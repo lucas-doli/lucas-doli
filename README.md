@@ -1,6 +1,6 @@
 # ¡Hola! Soy Lucas D'oliveira 👋<br />
 <a image align="center" href="https://ibb.co/3z2G7rK"><img src="https://i.ibb.co/L5mb8kK/Banner-de-Linked-In-Sencillo-Tecnolog-a.png" alt="Banner-de-Linked-In-Sencillo-Tecnolog-a" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
-Un apasionado joven programador con un fuerte interés en el conocimiento y entusiasmo por el mundo<br /> de la programación. Mi objetivo es crecer constantemente, aprender de las últimas tecnologías y destacar en proyectos desafiantes.<br/>
+Un apasionado joven programador con un fuerte interés en el conocimiento y entusiasmo por el mundo<br /> de la programación. <br />Mi objetivo es crecer constantemente, aprender de las últimas tecnologías y destacar en proyectos desafiantes.<br/>
 💻✨ Soy un eterno aprendiz en busca de desafíos para crecer profesionalmente. 🚀
 
 
