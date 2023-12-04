@@ -1,5 +1,6 @@
 # 💫 Acerca de mí:
-¡Hola! 👋 Soy Lucas D'oliveira, un apasionado joven programador con un fuerte interés en el conocimiento y entusiasmo por el mundo de la programación. Mi objetivo es crecer constantemente, aprender de las últimas tecnologías y destacar en proyectos desafiantes.💻✨ Soy un eterno aprendiz en busca de desafíos para crecer profesionalmente. 🚀
+¡Hola! 👋 Soy Lucas D'oliveira, un apasionado joven programador con un fuerte interés en el conocimiento y entusiasmo por el mundo de la programación. Mi objetivo es crecer constantemente, aprender de las últimas tecnologías y destacar en proyectos desafiantes.
+💻✨ Soy un eterno aprendiz en busca de desafíos para crecer profesionalmente. 🚀
 
 
 ## 🌐 Redes:
