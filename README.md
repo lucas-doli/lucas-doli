@@ -1,5 +1,5 @@
 # ¡Hola! Soy Lucas D'oliveira 👋
-<img src="https://imgur.com/a/WDh7uJX)">
+<img src="[https://imgur.com/a/WDh7uJX)](https://imgur.com/a/WDh7uJX)">
 Un apasionado joven programador con un fuerte interés en el conocimiento y entusiasmo por el mundo de la programación. Mi objetivo es crecer constantemente, aprender de las últimas tecnologías y destacar en proyectos desafiantes.<br/>
 💻✨ Soy un eterno aprendiz en busca de desafíos para crecer profesionalmente. 🚀
 
