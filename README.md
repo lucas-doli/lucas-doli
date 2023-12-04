@@ -1,5 +1,5 @@
 # ¡Hola! Soy Lucas D'oliveira 👋
-<img src="https://ibb.co/3z2G7rK">
+<image align="center" src="https://ibb.co/3z2G7rK" alt="Banner Readme GitHub">
 Un apasionado joven programador con un fuerte interés en el conocimiento y entusiasmo por el mundo de la programación. Mi objetivo es crecer constantemente, aprender de las últimas tecnologías y destacar en proyectos desafiantes.<br/>
 💻✨ Soy un eterno aprendiz en busca de desafíos para crecer profesionalmente. 🚀
 
